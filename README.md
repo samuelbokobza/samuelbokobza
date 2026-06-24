@@ -4,7 +4,7 @@ A **Full Stack Developer** specializing in building production systems that scal
 
 - 🤖 **AI-Driven Velocity:** I orchestrate AI-assisted workflows across the entire development cycle, integrating agentic planning, automated refactoring, and intelligent review loops.
 - 💼 **Current Focus:** Full Stack Developer at **Isracard**, architecting internal CRM platforms, secure REST APIs, and modular analytics dashboards.
-- 🧠 **AI Expertise:** Advanced practice in context engineering, prompt design for dev teams, and standardizing AI-assisted development.  <a href="https://linkedin.com/in/samuelbokobza"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>  </a><br></p>
+- 🧠 **AI Expertise:** Advanced practice in context engineering, prompt design for dev teams, and standardizing AI-assisted development.  <a href="https://linkedin.com/in/samuelbokobza"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br><br><br>  </a><br></p>
 
 
 ## 🌐 Socials:
