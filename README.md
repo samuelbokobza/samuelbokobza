@@ -1,12 +1,10 @@
 # Hi 👋, I'm Samuel Bokobza
 
-A **Full Stack Developer** specializing in building production systems that scale, from 10k+ daily transactions to 100k+ user platforms.
+A **Full Stack Developer** and the Founder of [VivaDigital](https://vivadigital.fr), a website & AI automation service agency. Let's work together! Check out my portfolio at [vivadigital.fr/realisation](https://vivadigital.fr/realisation).
 
 - 🤖 **AI-Driven Velocity:** I orchestrate AI-assisted workflows across the entire development cycle, integrating agentic planning, automated refactoring, and intelligent review loops.
-- 💼 **Current Focus:** Full Stack Developer at **Isracard**, architecting internal CRM platforms, secure REST APIs, and modular analytics dashboards.
-- 🧠 **AI Expertise:** Advanced practice in context engineering, prompt design for dev teams, and standardizing AI-assisted development.  <a href="https://linkedin.com/in/samuelbokobza"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br><br><br>  </a><br></p>
-
-
+- 💼 **Current Focus:** Full Stack Developer at a big finance company, developing internal platforms of the call center, and modular analytics dashboards.
+- 🧠 **AI Expertise:** Advanced practice in context engineering, prompt design for dev teams, and standardizing AI-assisted development.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelbokobza) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shmuelb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuel.bokobza@gmail.com) 
 
